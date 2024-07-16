@@ -67,7 +67,7 @@ This project is a content-based movie recommendation system that suggests movies
   
 2. Text Processing:
 
--NLTK is used to perform stemming of words to normalize the text data.
+- NLTK is used to perform stemming of words to normalize the text data.
 
 3. Vectorization:
 
