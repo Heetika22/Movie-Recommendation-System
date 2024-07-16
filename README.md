@@ -52,10 +52,10 @@ This project is a content-based movie recommendation system that suggests movies
    ```bash
    streamlit run app.py
    ```
-(./screenshots/avatar.png)
-(./screenshots/avengers.png)
-(./screenshots/tangled.png)
-(./screenshots/spider_man.png)
+
+<img src="./screenshots/avatar.png" alt="Home Screen">
+<img src="./screenshots/avengers.png"  alt="Home Screen">
+<img src="./screenshots/tangled.png" alt="Home Screen">
 
 
 ## How it Works
